@@ -1,0 +1,5 @@
+D:\VSPROJECTS_2.0\App\bin\Release\net7.0\publish\Dotnet.Docker.exe
+D:\VSPROJECTS_2.0\App\bin\Release\net7.0\publish\Dotnet.Docker.dll
+D:\VSPROJECTS_2.0\App\bin\Release\net7.0\publish\Dotnet.Docker.deps.json
+D:\VSPROJECTS_2.0\App\bin\Release\net7.0\publish\Dotnet.Docker.runtimeconfig.json
+D:\VSPROJECTS_2.0\App\bin\Release\net7.0\publish\Dotnet.Docker.pdb
